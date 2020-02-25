@@ -1,7 +1,8 @@
 p {
-  color:green;
-  font-siza:20px;
+  color: green;
+  font-size: 20px;
 }
+
 .active > a{
-  color:red;
+  color: red;
 }

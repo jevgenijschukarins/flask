@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "runner"
+name = "d23-2flaskintro"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
